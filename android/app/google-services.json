@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471133590366",
+    "project_id": "todomateapp-3423a",
+    "storage_bucket": "todomateapp-3423a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471133590366:android:f475937e51194b5fcfb5cf",
+        "android_client_info": {
+          "package_name": "com.example.to_do_mate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471133590366-v2hbpjrshvf3dkl6fd8csmpo7nndo9md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8mZnUsBp1BDVpXFwPKqLStYKMYyWuWeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471133590366-v2hbpjrshvf3dkl6fd8csmpo7nndo9md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
